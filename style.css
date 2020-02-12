@@ -1,28 +1,22 @@
 htlm {
    line-height: 1.2em;
-   font-family: tahoma;
-   font-size: 15px;
+   font-family: arial;
+   font-size: 12px;
 }
-
-
-
 label {
   display: block;
   background-color: #66ccff;
   text-align: center;
 }
-
 @media screen and (min-width: 480px) {
   label {
     display: inline-block;
-    color: white;
-    background-color: red;
+    color: black;
+    background-color: white;
     margin-right: 5px;
     font-size: 1.3em;
   }
-
   div {
     display: inline;
-
   }
 }
